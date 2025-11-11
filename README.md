@@ -12,11 +12,11 @@ Whitelist all Piano subdomains:
 - lalibre.be (if you still have issue)
 
 ## Detailed answer:
-Go to 'Domain management'
-Add a new Regex filter
-Regular expression 'piano.io'
-Click on 'Add to allowed domains'
+- Go to 'Domain management'
+- Add a new Regex filter
+- Regular expression 'piano.io'
+- Click on 'Add to allowed domains'
 
-Do the same with 'lalibre.be' if you still have issue.
+- Do the same with 'lalibre.be' if you still have issue.
 
 
